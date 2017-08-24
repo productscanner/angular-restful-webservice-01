@@ -1,0 +1,8 @@
+package hello;
+
+@RestController
+public class GreetingController {
+
+	
+	
+}
